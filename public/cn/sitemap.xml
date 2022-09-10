@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://kechang.github.io/categories/</loc>
+    <loc>https://blog.joway.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kechang.github.io/en/categories/"
+                href="https://blog.joway.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://kechang.github.io/categories/"
+                href="https://blog.joway.io/categories/"
                 />
   </url><url>
-    <loc>http://kechang.github.io/</loc>
+    <loc>https://blog.joway.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kechang.github.io/en/"
+                href="https://blog.joway.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://kechang.github.io/"
+                href="https://blog.joway.io/"
                 />
   </url><url>
-    <loc>http://kechang.github.io/tags/</loc>
+    <loc>https://blog.joway.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kechang.github.io/en/tags/"
+                href="https://blog.joway.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://kechang.github.io/tags/"
+                href="https://blog.joway.io/tags/"
                 />
   </url>
 </urlset>
