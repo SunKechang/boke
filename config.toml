@@ -1,4 +1,4 @@
-baseURL = "https://blog.joway.io/"
+baseURL = "https://bboom.netlify.com/"
 languageCode = "en-us"
 title = "David's Blog"
 theme = "yinyang"
