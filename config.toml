@@ -1,4 +1,4 @@
-baseURL = 'https://bboom.netilify.com/'
+baseURL = 'https://bboom.netlify.com/'
 languageCode = 'en-us'
 title = 'David Site'
 theme = "yinyang"
