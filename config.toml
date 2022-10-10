@@ -29,7 +29,7 @@ DefaultContentLanguage = "cn"
 [params]
 mainSections = ["posts"]
 headTitle = "David Sun"
-favicon = "logo.png"
+favicon = "/logo.png"
 [[params.socials]]
 name = "About Me"
 link = "https://github.com/SunKechang"
