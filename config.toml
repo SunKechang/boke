@@ -11,7 +11,7 @@ DefaultContentLanguage = "cn"
   [markup.highlight]
     guessSyntax = true
     noClasses = true
-    style = "bw"
+    style = "tango"
     tabWidth = 2
 
 [author]
@@ -23,7 +23,7 @@ DefaultContentLanguage = "cn"
     weight = 1
   [languages.cn]
     contentDir = "content/cn"
-    languageName = "Chinese"
+    languageName = "简体中文"
     weight = 2
 
 [params]
